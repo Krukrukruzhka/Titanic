@@ -8,6 +8,8 @@
   <li>submission.csv - файл с предсказанными значениями</li>
   <li>train.csv - обучающая выборка с размеченными данными о виживаемости</li>
   <li>test.csv - тестовая выборка, необходимая для подсчета submission.csv (ответа на задачу)</li>
-  <li>titanicAnalytics.ipynb - ноутбук, содержащий анализ представленных в train.csv данных. </li>
-  <li>titanicMain.ipynb - ноутбук с обучением моделей и валидацией данных</li>
+  <li><a href='https://github.com/Krukrukruzhka/Titanic/blob/main/titanicAnalytics.ipynb'>titanicAnalytics.ipynb</a> - ноутбук, содержащий анализ представленных в train.csv данных</li>
+  <li><a href='https://github.com/Krukrukruzhka/Titanic/blob/main/titanicAnalytics.ipynb'>titanicMain.ipynb</a> - ноутбук с обучением моделей и валидацией данных</li>
 </ul>
+
+Скачать train.csv и test.csv можно <a href='https://www.kaggle.com/competitions/titanic/data'>здесь</a>.
