@@ -5,7 +5,6 @@
 <br>
 <h3>Структура директории:</h3>
 <ul>
-  <li>submission.csv - файл с предсказанными значениями</li>
   <li>train.csv - обучающая выборка с размеченными данными о виживаемости</li>
   <li>test.csv - тестовая выборка, необходимая для подсчета submission.csv (ответа на задачу)</li>
   <li><a href='https://github.com/Krukrukruzhka/Titanic/blob/main/titanicAnalytics.ipynb'>titanicAnalytics.ipynb</a> - ноутбук, содержащий анализ представленных в train.csv данных</li>
